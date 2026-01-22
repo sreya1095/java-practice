@@ -6,6 +6,7 @@ This repository contains my Java practice programs.
 - Hello World
 - If-Else statements
 - For loops
+- while loop
 
 ## Purpose
 Learning Java fundamentals and GitHub usage.
