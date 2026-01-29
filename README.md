@@ -7,6 +7,8 @@ This repository contains my Java practice programs.
 - If-Else statements
 - For loops
 - while loop
+- Do-While Loop
+
 
 ## Purpose
 Learning Java fundamentals and GitHub usage.
