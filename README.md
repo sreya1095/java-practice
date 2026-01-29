@@ -8,6 +8,8 @@ This repository contains my Java practice programs.
 - For loops
 - while loop
 - Do-While Loop
+- Switch case
+- Basic program
 
 
 ## Purpose
