@@ -9,7 +9,7 @@ This repository contains my Java practice programs.
 - while loop
 - Do-While Loop
 - Switch case
-- Basic program
+- Basic programs
 
 
 ## Goal
