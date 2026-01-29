@@ -12,6 +12,6 @@ This repository contains my Java practice programs.
 - Basic program
 
 
-## Purpose
-Learning Java fundamentals and GitHub usage.
+## Goal
+To build strong java fundamentals steb by step
 
