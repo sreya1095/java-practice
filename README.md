@@ -10,8 +10,9 @@ This repository contains my Java practice programs.
 - Do-While Loop
 - Switch case
 - Basic programs
+- mini project(coming soon)
 
 
 ## Goal
-To build strong java fundamentals steb by step
+To build strong fundamentals for placements and internships.
 
