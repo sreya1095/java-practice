@@ -1,18 +1,82 @@
-# java-practice
-
-This repository contains my Java practice programs.
-
-## Topics Covered
-- Hello World
-- If-Else statements
-- For loops
-- while loop
-- Do-While Loop
-- Switch case
-- Basic programs
-- mini project(coming soon)
+\# 🚀 Java Practice Repository
 
 
-## Goal
-To build strong fundamentals for placements and internships.
+
+Welcome to my \*\*Java Practice Repository\*\*!  
+
+This repo contains my daily Java coding practice as I build strong fundamentals for placements and internships.
+
+
+
+---
+
+
+
+\## 📌 Topics Covered
+
+
+
+\### ✅ Basics
+
+\- Hello World Program  
+
+\- Variables and Data Types  
+
+\- Input/Output using Scanner  
+
+
+
+\### ✅ Control Statements
+
+\- If-Else Statements  
+
+\- Switch Case  
+
+
+
+\### ✅ Loops
+
+\- For Loop  
+
+\- While Loop  
+
+\- Do-While Loop  
+
+
+
+\### ✅ Basic Programs
+
+\- Even/Odd Number  
+
+\- Prime Number  
+
+\- Factorial  
+
+\- Palindrome (Coming Soon)
+
+
+
+---
+
+
+
+\## 📂 Folder Structure
+
+
+
+```bash
+
+java-practice/
+
+│── basics/        → Beginner programs  
+
+│── arrays/        → Array-based problems  
+
+│── strings/       → String problems  
+
+│── oops/          → Object-Oriented Programming concepts  
+
+│── README.md      → Repository overview  
+
+
 
