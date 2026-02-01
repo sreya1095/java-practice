@@ -1,82 +1,50 @@
-\# 🚀 Java Practice Repository
+# 🚀 Java Practice Repository
 
-
-
-Welcome to my \*\*Java Practice Repository\*\*!  
-
-This repo contains my daily Java coding practice as I build strong fundamentals for placements and internships.
-
-
+Welcome to my **Java Practice Repository**!  
+This repository contains my daily Java coding practice as I build strong fundamentals for placements and internships.
 
 ---
 
+## 📌 Topics Covered
 
+### ✅ Basics
+- Hello World Program  
+- Variables and Data Types  
+- Input/Output using Scanner  
 
-\## 📌 Topics Covered
+### ✅ Control Statements
+- If-Else Statements  
+- Switch Case  
 
-
-
-\### ✅ Basics
-
-\- Hello World Program  
-
-\- Variables and Data Types  
-
-\- Input/Output using Scanner  
-
-
-
-\### ✅ Control Statements
-
-\- If-Else Statements  
-
-\- Switch Case  
-
-
-
-\### ✅ Loops
-
-\- For Loop  
-
-\- While Loop  
-
-\- Do-While Loop  
-
-
-
-\### ✅ Basic Programs
-
-\- Even/Odd Number  
-
-\- Prime Number  
-
-\- Factorial  
-
-\- Palindrome (Coming Soon)
-
-
+### ✅ Loops
+- For Loop  
+- While Loop  
+- Do-While Loop  
 
 ---
 
+## ✅ Programs Included
 
+### 🔹 Basic Programs
+- Even/Odd Number  
+- Prime Number  
+- Factorial  
+- Palindrome Number  
 
-\## 📂 Folder Structure
+### 🔹 String Programs
+- String Length  
+- Palindrome String  
+- Reverse String  
+- Vowel Count  
 
+---
 
+## 📂 Folder Structure
 
 ```bash
-
 java-practice/
-
 │── basics/        → Beginner programs  
-
 │── arrays/        → Array-based problems  
-
 │── strings/       → String problems  
-
-│── oops/          → Object-Oriented Programming concepts  
-
+│── oops/          → Object-Oriented Programming concepts    
 │── README.md      → Repository overview  
-
-
-
