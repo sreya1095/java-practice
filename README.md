@@ -1,7 +1,7 @@
 # 🚀 Java Practice Repository
 
 Welcome to my **Java Practice Repository**!  
-This repository contains my daily Java coding practice as I build strong fundamentals for placements and internships.
+This repository contains my daily Java coding practice as I build strong fundamentals for **placements and internships**.
 
 ---
 
@@ -37,6 +37,11 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Reverse String  
 - Vowel Count  
 
+### 🔹 Array Programs
+- Array Sum  
+- Maximum Element in Array  
+- Minimum Element in Array  
+
 ---
 
 ## 📂 Folder Structure
@@ -46,5 +51,5 @@ java-practice/
 │── basics/        → Beginner programs  
 │── arrays/        → Array-based problems  
 │── strings/       → String problems  
-│── oops/          → Object-Oriented Programming concepts    
+│── oops/          → Object-Oriented Programming concepts  
 │── README.md      → Repository overview  
