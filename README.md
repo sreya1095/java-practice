@@ -5,7 +5,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 
 ---
 
-## 📌 Topics Covered
+## 📌 Topics Covered 
 
 ### ✅ Basics
 - Hello World Program  
