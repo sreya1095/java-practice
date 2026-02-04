@@ -42,6 +42,11 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Maximum Element in Array  
 - Minimum Element in Array  
 
+### 🔹 OOPS Programs
+- Class and Object Example  
+- Constructor Demo  
+- Method Overloading Example  
+
 ---
 
 ## 📂 Folder Structure
