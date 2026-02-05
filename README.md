@@ -45,7 +45,8 @@ This repository contains my daily Java coding practice as I build strong fundame
 ### 🔹 OOPS Programs
 - Class and Object Example  
 - Constructor Demo  
-- Method Overloading Example  
+- Method Overloading Example 
+- Inheritance Example 
 
 ---
 
