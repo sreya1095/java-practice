@@ -43,10 +43,11 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Minimum Element in Array  
 
 ### 🔹 OOPS Programs
-- Class and Object Example  
-- Constructor Demo  
-- Method Overloading Example 
-- Inheritance Example 
+- Class and Object  
+- Constructor
+- Method Overloading
+- Method Overriding
+- Inheritance
 
 ---
 
