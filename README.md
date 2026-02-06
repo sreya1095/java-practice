@@ -42,12 +42,13 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Maximum Element in Array  
 - Minimum Element in Array  
 
-### 🔹 OOPS Programs
-- Class and Object  
-- Constructor
-- Method Overloading
-- Method Overriding
-- Inheritance
+### 🔹 OOPS Concepts
+- Class & Object  
+- Constructor  
+- Inheritance  
+- Method Overloading  
+- Method Overriding  
+- Abstraction (Abstract Class)
 
 ---
 
@@ -57,6 +58,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 java-practice/
 │── basics/        → Beginner programs  
 │── arrays/        → Array-based problems  
-│── strings/       → String problems  
-│── oops/          → Object-Oriented Programming concepts  
+│── strings/       → String programs  
+│── oops/          → OOPS concepts & examples  
+│── patterns/      → Pattern programs  
 │── README.md      → Repository overview  
