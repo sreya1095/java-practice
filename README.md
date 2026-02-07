@@ -41,6 +41,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Array Sum  
 - Maximum Element in Array  
 - Minimum Element in Array  
+- Reverse Array
 
 ### 🔹 OOPS Concepts
 - Class & Object  
@@ -49,6 +50,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Method Overloading  
 - Method Overriding  
 - Abstraction (Abstract Class)
+- Polymorphism
 
 ---
 
