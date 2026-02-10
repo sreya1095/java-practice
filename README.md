@@ -54,6 +54,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Method Overriding  
 - Abstraction (Abstract Class)
 - Polymorphism
+- Interface example
 
 ---
 
