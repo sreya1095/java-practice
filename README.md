@@ -43,6 +43,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Minimum Element in Array  
 - Reverse Array
 - Second Largest Element in Array
+- Even and Odd count program
 
 ### 🔹 OOPS Concepts
 - Class & Object  
