@@ -14,7 +14,7 @@ public class CountEvenOdd {
         System.out.println("Enter array elements:");
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
-
+//checks whether the number is even or odd by moduling it with 2
             if (arr[i] % 2 == 0)
                 even++;
             else
