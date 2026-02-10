@@ -44,6 +44,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Reverse Array
 - Second Largest Element in Array
 - Even and Odd count program
+- Duplicate Elements in Array
 
 ### 🔹 OOPS Concepts
 - Class & Object  
