@@ -45,6 +45,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Second Largest Element in Array
 - Even and Odd count program
 - Duplicate Elements in Array
+- Frequency Of Elements
 
 ### 🔹 OOPS Concepts
 - Class & Object  
@@ -55,6 +56,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Abstraction (Abstract Class)
 - Polymorphism
 - Interface
+- Exception Handling
 
 ---
 
