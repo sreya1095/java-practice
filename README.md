@@ -5,7 +5,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 
 ---
 
-## 📌 Topics Covered 
+## 📌 Topics Covered
 
 ### ✅ Basics
 - Hello World Program  
@@ -36,16 +36,17 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Palindrome String  
 - Reverse String  
 - Vowel Count  
+- Anagram Check  
 
 ### 🔹 Array Programs
 - Array Sum  
 - Maximum Element in Array  
 - Minimum Element in Array  
-- Reverse Array
-- Second Largest Element in Array
-- Even and Odd count program
-- Duplicate Elements in Array
-- Frequency Of Elements
+- Reverse Array  
+- Second Largest Element  
+- Even and Odd Count  
+- Duplicate Elements  
+- Frequency of Elements  
 
 ### 🔹 OOPS Concepts
 - Class & Object  
@@ -53,15 +54,19 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Inheritance  
 - Method Overloading  
 - Method Overriding  
-- Abstraction (Abstract Class)
-- Polymorphism
-- Interface
-- Exception Handling
+- Abstraction (Abstract Class)  
+- Polymorphism  
+- Interface  
+- Exception Handling  
+
+### 🔹 Pattern Programs
+- Star Patterns  
+- Number Patterns  
+- Character Patterns  
 
 ---
 
 ## 📂 Folder Structure
-
 ```bash
 java-practice/
 │── basics/        → Beginner programs  
@@ -70,3 +75,13 @@ java-practice/
 │── oops/          → OOPS concepts & examples  
 │── patterns/      → Pattern programs  
 │── README.md      → Repository overview  
+```
+
+---
+
+## 🎯 Goal
+To strengthen Java fundamentals, improve problem-solving skills, and prepare for **technical interviews, internships, and placements**.
+
+---
+
+⭐ *Consistent practice + clean code + GitHub commits = Strong developer profile*
