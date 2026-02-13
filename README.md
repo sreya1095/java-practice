@@ -37,6 +37,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Reverse String  
 - Vowel Count  
 - Anagram Check  
+- Character frequency counter
 
 ### 🔹 Array Programs
 - Array Sum  
