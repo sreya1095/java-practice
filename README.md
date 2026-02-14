@@ -30,6 +30,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Prime Number  
 - Factorial  
 - Palindrome Number  
+- Count digits in number
 
 ### 🔹 String Programs
 - String Length  
