@@ -1,7 +1,7 @@
 # 🚀 Java Practice Repository
 
-Welcome to my **Java Practice Repository**!  
-This repository contains my daily Java coding practice as I build strong fundamentals for **placements and internships**.
+Welcome to my **Java Practice Repository** 👩‍💻  
+This repository contains my daily Java coding practice where I consistently build strong programming fundamentals for **placements, internships, and technical interviews**.
 
 ---
 
@@ -11,6 +11,7 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Hello World Program  
 - Variables and Data Types  
 - Input/Output using Scanner  
+- Count Digits in Number  
 
 ### ✅ Control Statements
 - If-Else Statements  
@@ -23,14 +24,16 @@ This repository contains my daily Java coding practice as I build strong fundame
 
 ---
 
-## ✅ Programs Included
+## 💻 Programs Implemented
 
 ### 🔹 Basic Programs
 - Even/Odd Number  
 - Prime Number  
 - Factorial  
 - Palindrome Number  
-- Count digits in number
+- Count Digits in Number  
+
+---
 
 ### 🔹 String Programs
 - String Length  
@@ -38,7 +41,9 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Reverse String  
 - Vowel Count  
 - Anagram Check  
-- Character frequency counter
+- Character Frequency Counter  
+
+---
 
 ### 🔹 Array Programs
 - Array Sum  
@@ -49,6 +54,8 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Even and Odd Count  
 - Duplicate Elements  
 - Frequency of Elements  
+
+---
 
 ### 🔹 OOPS Concepts
 - Class & Object  
@@ -61,6 +68,8 @@ This repository contains my daily Java coding practice as I build strong fundame
 - Interface  
 - Exception Handling  
 
+---
+
 ### 🔹 Pattern Programs
 - Star Patterns  
 - Number Patterns  
@@ -68,22 +77,44 @@ This repository contains my daily Java coding practice as I build strong fundame
 
 ---
 
+### 🔹 Collections Framework
+- ArrayList Demo  
+- Basic List Operations  
+- Iterating Collections  
+
+---
+
 ## 📂 Folder Structure
+
 ```bash
 java-practice/
 │── basics/        → Beginner programs  
-│── arrays/        → Array-based problems  
+│── arrays/        → Array problems  
 │── strings/       → String programs  
-│── oops/          → OOPS concepts & examples  
+│── oops/          → OOPS concepts  
+│── collections/   → Java Collections demos  
 │── patterns/      → Pattern programs  
-│── README.md      → Repository overview  
+│── README.md      → Repository overview
 ```
 
 ---
 
-## 🎯 Goal
-To strengthen Java fundamentals, improve problem-solving skills, and prepare for **technical interviews, internships, and placements**.
+## 🎯 Repository Goal
+✔ Strengthen Java fundamentals  
+✔ Improve logical thinking  
+✔ Practice daily coding  
+✔ Build a strong GitHub profile  
+✔ Prepare for interviews & placements  
 
 ---
 
-⭐ *Consistent practice + clean code + GitHub commits = Strong developer profile*
+## 📈 Progress Strategy
+I update this repository **daily** with:
+- New programs
+- Improved logic
+- Clean code practices
+- Structured commits
+
+---
+
+⭐ **Consistency + Practice + Clean Code + GitHub = Strong Developer Profile**
