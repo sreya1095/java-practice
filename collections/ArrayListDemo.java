@@ -1,20 +1,20 @@
-import java.util.ArrayList;
+import java.util.*;
 
 public class ArrayListDemo {
     public static void main(String[] args) {
 
-        ArrayList<String> list = new ArrayList<>();
+        ArrayList<String> names = new ArrayList<>();
 
-        list.add("Apple");
-        list.add("Banana");
-        list.add("Mango");
+        names.add("Shreya");
+        names.add("Asha");
+        names.add("Ravi");
 
-        System.out.println("List: " + list);
+        System.out.println("Names: " + names);
 
-        list.remove("Banana");
+        names.remove("Asha");
 
-        System.out.println("After removing Banana: " + list);
+        System.out.println("After removal: " + names);
 
-        System.out.println("Contains Apple? " + list.contains("Apple"));
+        System.out.println("First name: " + names.get(0));
     }
 }
