@@ -1,14 +1,28 @@
+import java.util.Scanner;
+
 public class LargestOfThree {
     public static void main(String[] args) {
-        int a = 10, b = 25, c = 15;
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter first number: ");
+        int a = sc.nextInt();
+
+        System.out.print("Enter second number: ");
+        int b = sc.nextInt();
+
+        System.out.print("Enter third number: ");
+        int c = sc.nextInt();
+
+        int largest;
 
         if (a >= b && a >= c) {
-            System.out.println("Largest is: " + a);
+            largest = a;
         } else if (b >= a && b >= c) {
-            System.out.println("Largest is: " + b);
+            largest = b;
         } else {
-            System.out.println("Largest is: " + c);
+            largest = c;
         }
+
+        System.out.println("Largest number is: " + largest);
     }
 }
-
