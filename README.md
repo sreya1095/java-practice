@@ -117,4 +117,11 @@ I update this repository **daily** with:
 
 ---
 
+### 🔄 Daily Goal
+✔ Practice 1 Java concept  
+✔ Push 1 meaningful commit  
+✔ Update progress tracker  
+
+Consistency = Growth
+
 ⭐ **Consistency + Practice + Clean Code + GitHub = Strong Developer Profile**
