@@ -1,61 +1,62 @@
 # 🚀 Java Practice Repository
 
 Welcome to my **Java Practice Repository** 👩‍💻  
-This repository contains my daily Java coding practice where I consistently build strong programming fundamentals for **placements, internships, and technical interviews**.
+
+This repository contains my daily Java coding practice where I consistently build strong programming fundamentals for:
+
+- 📌 Placements  
+- 📌 Internships  
+- 📌 Technical Interviews  
 
 ---
 
-## 📌 Topics Covered
+## 🎯 Repository Goal
 
-### ✅ Basics
-- Hello World Program  
-- Variables and Data Types  
+✔ Strengthen Java fundamentals  
+✔ Improve logical thinking  
+✔ Practice DSA patterns  
+✔ Write clean and structured code  
+✔ Maintain daily GitHub contributions  
+
+---
+
+## 📚 Topics Covered
+
+### 🔹 Basics
+- Hello World  
+- Variables & Data Types  
 - Input/Output using Scanner  
-- Count Digits in Number  
+- Count Digits  
 
-### ✅ Control Statements
-- If-Else Statements  
+### 🔹 Control Statements
+- If-Else  
 - Switch Case  
 
-### ✅ Loops
+### 🔹 Loops
 - For Loop  
 - While Loop  
 - Do-While Loop  
 
----
-
-## 💻 Programs Implemented
-
-### 🔹 Basic Programs
-- Even/Odd Number  
-- Prime Number  
-- Factorial  
-- Palindrome Number  
-- Count Digits in Number  
-
----
+### 🔹 Recursion
+- Factorial using Recursion  
+- Fibonacci using Recursion  
 
 ### 🔹 String Programs
-- String Length  
 - Palindrome String  
 - Reverse String  
 - Vowel Count  
 - Anagram Check  
-- Character Frequency Counter  
-
----
+- Character Frequency  
 
 ### 🔹 Array Programs
 - Array Sum  
-- Maximum Element in Array  
-- Minimum Element in Array  
+- Maximum Element  
+- Minimum Element  
 - Reverse Array  
 - Second Largest Element  
 - Even and Odd Count  
 - Duplicate Elements  
 - Frequency of Elements  
-
----
 
 ### 🔹 OOPS Concepts
 - Class & Object  
@@ -63,65 +64,77 @@ This repository contains my daily Java coding practice where I consistently buil
 - Inheritance  
 - Method Overloading  
 - Method Overriding  
-- Abstraction (Abstract Class)  
+- Abstraction  
 - Polymorphism  
 - Interface  
 - Exception Handling  
-
----
 
 ### 🔹 Pattern Programs
 - Star Patterns  
 - Number Patterns  
 - Character Patterns  
 
----
-
 ### 🔹 Collections Framework
-- ArrayList Demo  
+- ArrayList  
 - Basic List Operations  
 - Iterating Collections  
 
 ---
 
-## 📂 Folder Structure
+## 🧠 Coding Approach
 
-```bash
-java-practice/
-│── basics/        → Beginner programs  
-│── arrays/        → Array problems  
-│── strings/       → String programs  
-│── oops/          → OOPS concepts  
-│── collections/   → Java Collections demos  
-│── patterns/      → Pattern programs  
-│── README.md      → Repository overview
-```
+Each program in this repository follows:
+
+- Clean code structure  
+- Proper naming conventions  
+- Input-driven execution  
+- Logical explanation in comments  
+- Time Complexity & Space Complexity awareness  
 
 ---
 
-## 🎯 Repository Goal
-✔ Strengthen Java fundamentals  
-✔ Improve logical thinking  
-✔ Practice daily coding  
-✔ Build a strong GitHub profile  
-✔ Prepare for interviews & placements  
+## 📂 Folder Structure
+java-practice/
+│── basics/
+│── arrays/
+│── strings/
+│── recursion/
+│── oops/
+│── collections/
+│── patterns/
+│── README.md
+
 
 ---
 
 ## 📈 Progress Strategy
+
 I update this repository **daily** with:
-- New programs
-- Improved logic
-- Clean code practices
-- Structured commits
+
+- New problems  
+- Improved logic  
+- Refactored code  
+- Better time complexity approaches  
 
 ---
 
-### 🔄 Daily Goal
-✔ Practice 1 Java concept  
-✔ Push 1 meaningful commit  
-✔ Update progress tracker  
+## 🔄 Daily Commitment
 
-Consistency = Growth
+✔ Practice 1 concept  
+✔ Solve 1 logical problem  
+✔ Push 1 meaningful commit  
+
+---
+
+## 💡 Why This Repository?
+
+This repository represents:
+
+- Consistency  
+- Strong fundamentals  
+- Interview preparation  
+- Continuous improvement  
+
+---
 
 ⭐ **Consistency + Practice + Clean Code + GitHub = Strong Developer Profile**
