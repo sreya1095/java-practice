@@ -140,4 +140,4 @@ This repository represents:
 ⭐ **Consistency + Practice + Clean Code + GitHub = Strong Developer Profile**
 
 ### 🚀 Upcoming Feature
-- Sorting Algorithms section will be added soon
+- Sorting Algorithms section will be added soonmain branch update before rebase
