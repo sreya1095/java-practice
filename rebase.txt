@@ -1,1 +1,2 @@
 Rebase practice line 1
+This is rebase practice file
