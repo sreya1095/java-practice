@@ -1,146 +1,189 @@
 # 🚀 Java Practice Repository
 
-Welcome to my **Java Practice Repository** 👩‍💻  
+Welcome to my **Java Practice Repository** 👩‍💻
 
-This repository contains my daily Java coding practice where I consistently build strong programming fundamentals for:
+This repository contains my **daily Java coding practice** where I consistently build strong programming fundamentals and improve problem-solving skills.
 
-- 📌 Placements  
-- 📌 Internships  
-- 📌 Technical Interviews  
+It is part of my journey to prepare for:
 
----
-
-## 🎯 Repository Goal
-
-✔ Strengthen Java fundamentals  
-✔ Improve logical thinking  
-✔ Practice DSA patterns  
-✔ Write clean and structured code  
-✔ Maintain daily GitHub contributions  
+* 📌 Software Engineering Roles
+* 📌 Internships
+* 📌 Technical Interviews
+* 📌 Strong Problem Solving Skills
 
 ---
 
-## 📚 Topics Covered
+# 🎯 Repository Goals
 
-### 🔹 Basics
-- Hello World  
-- Variables & Data Types  
-- Input/Output using Scanner  
-- Count Digits  
-
-### 🔹 Control Statements
-- If-Else  
-- Switch Case  
-
-### 🔹 Loops
-- For Loop  
-- While Loop  
-- Do-While Loop  
-
-### 🔹 Recursion
-- Factorial using Recursion  
-- Fibonacci using Recursion  
-
-### 🔹 String Programs
-- Palindrome String  
-- Reverse String  
-- Vowel Count  
-- Anagram Check  
-- Character Frequency  
-
-### 🔹 Array Programs
-- Array Sum  
-- Maximum Element  
-- Minimum Element  
-- Reverse Array  
-- Second Largest Element  
-- Even and Odd Count  
-- Duplicate Elements  
-- Frequency of Elements  
-
-### 🔹 OOPS Concepts
-- Class & Object  
-- Constructor  
-- Inheritance  
-- Method Overloading  
-- Method Overriding  
-- Abstraction  
-- Polymorphism  
-- Interface  
-- Exception Handling  
-
-### 🔹 Pattern Programs
-- Star Patterns  
-- Number Patterns  
-- Character Patterns  
-
-### 🔹 Collections Framework
-- ArrayList  
-- Basic List Operations  
-- Iterating Collections  
+✔ Strengthen **core Java fundamentals**
+✔ Improve **logical thinking & coding patterns**
+✔ Practice **Data Structures & Algorithms**
+✔ Write **clean, readable, and maintainable code**
+✔ Maintain **consistent GitHub activity**
 
 ---
 
-## 🧠 Coding Approach
+# 📚 Topics Covered
 
-Each program in this repository follows:
+## 🔹 Java Basics
 
-- Clean code structure  
-- Proper naming conventions  
-- Input-driven execution  
-- Logical explanation in comments  
-- Time Complexity & Space Complexity awareness  
-
----
-
-## 📂 Folder Structure
-java-practice/
-│── basics/
-│── arrays/
-│── strings/
-│── recursion/
-│── oops/
-│── collections/
-│── patterns/
-│── README.md
-
+* Hello World
+* Variables & Data Types
+* Input / Output using Scanner
+* Count Digits
+* Number Operations
 
 ---
 
-## 📈 Progress Strategy
+## 🔹 Control Statements
 
-I update this repository **daily** with:
-
-- New problems  
-- Improved logic  
-- Refactored code  
-- Better time complexity approaches  
+* If – Else
+* Nested If
+* Switch Case
 
 ---
 
-## 🔄 Daily Commitment
+## 🔹 Loops
 
-✔ Practice 1 concept  
-✔ Solve 1 logical problem  
-✔ Push 1 meaningful commit  
+* For Loop
+* While Loop
+* Do-While Loop
+* Loop Based Problems
 
 ---
 
-## 💡 Why This Repository?
+## 🔹 Recursion
 
-This repository represents:
+* Factorial using Recursion
+* Fibonacci using Recursion
+* Basic Recursive Thinking
 
-- Consistency  
-- Strong fundamentals  
-- Interview preparation  
-- Continuous improvement  
+---
+
+## 🔹 String Programs
+
+* Palindrome String
+* Reverse String
+* Vowel Count
+* Anagram Check
+* Character Frequency
+
+---
+
+## 🔹 Array Programs
+
+* Array Sum
+* Maximum Element
+* Minimum Element
+* Reverse Array
+* Second Largest Element
+* Even & Odd Count
+* Duplicate Elements
+* Frequency of Elements
+
+---
+
+## 🔹 Object Oriented Programming (OOP)
+
+* Class & Object
+* Constructors
+* Inheritance
+* Method Overloading
+* Method Overriding
+* Abstraction
+* Polymorphism
+* Interfaces
+* Exception Handling
+
+---
+
+## 🔹 Pattern Programs
+
+* Star Patterns
+* Number Patterns
+* Character Patterns
+
+---
+
+## 🔹 Collections Framework
+
+* ArrayList
+* List Operations
+* Iterating Collections
+* Basic Collection Usage
+
+---
+
+# 🧠 Coding Approach
+
+Each program in this repository focuses on:
+
+* Clean and readable code
+* Meaningful variable naming
+* Input-driven program execution
+* Logical explanations in comments
+* Awareness of **Time Complexity & Space Complexity**
+
+---
+
+# 📂 Folder Structure
+
+```
+java-practice
+│
+├── basics
+├── arrays
+├── strings
+├── recursion
+├── oops
+├── collections
+├── patterns
+│
+└── README.md
+```
+
+---
+
+# 📈 Progress Strategy
+
+I update this repository **regularly** with:
+
+* New Java programs
+* Improved logic and optimization
+* Refactored code
+* Better understanding of problem-solving techniques
+
+---
+
+# 🔄 Daily Practice Plan
+
+✔ Learn **1 Java concept**
+✔ Solve **1 logical coding problem**
+✔ Push **1 meaningful GitHub commit**
+
+---
+
+# 💡 Purpose of This Repository
+
+This repository reflects:
+
+* Consistent learning
+* Strong programming fundamentals
+* Interview preparation
+* Continuous improvement in coding
+
+---
+
+# 🚀 Upcoming Improvements
+
+Planned additions to this repository:
+
+* Sorting Algorithms
+* Searching Algorithms
+* More Data Structures
+* Advanced Java Concepts
+* More Collection Framework Examples
 
 ---
 
 ⭐ **Consistency + Practice + Clean Code + GitHub = Strong Developer Profile**
-
-### 🚀 Upcoming Feature
-- Sorting Algorithms section will be added soonmain branch update before rebase
-Update from main branch before rebase
-Another main branch update
-Main branch update after feature second commit
