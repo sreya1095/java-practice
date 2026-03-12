@@ -80,6 +80,8 @@ It is part of my journey to prepare for:
 * Even & Odd Count
 * Duplicate Elements
 * Frequency of Elements
+* Product Except Self
+* Largest element
 
 ---
 
