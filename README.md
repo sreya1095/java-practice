@@ -113,6 +113,7 @@ It is part of my journey to prepare for:
 * List Operations
 * Iterating Collections
 * Basic Collection Usage
+* First non-repeating
 
 ---
 
