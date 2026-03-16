@@ -67,6 +67,7 @@ It is part of my journey to prepare for:
 * Vowel Count
 * Anagram Check
 * Character Frequency
+* Remove vowels
 
 ---
 
