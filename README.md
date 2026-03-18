@@ -68,6 +68,7 @@ It is part of my journey to prepare for:
 * Anagram Check
 * Character Frequency
 * Remove vowels
+* Longest Unique Substring
 
 ---
 
