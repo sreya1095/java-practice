@@ -126,7 +126,6 @@ Each program in this repository focuses on:
 * Clean and readable code
 * Meaningful variable naming
 * Input-driven program execution
-* Logical explanations in comments
 * Awareness of **Time Complexity & Space Complexity**
 
 ---
