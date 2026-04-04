@@ -32,6 +32,7 @@ It is part of my journey to prepare for:
 * Input / Output using Scanner
 * Count Digits
 * Number Operations
+* Single Number
 
 ---
 
