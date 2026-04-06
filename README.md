@@ -1,194 +1,182 @@
-# 🚀 Java Practice Repository
+# 🚀 Java Practice Repository  
 
-Welcome to my **Java Practice Repository** 👩‍💻
+Welcome to my **Java Practice Repository** 👩‍💻  
 
-This repository contains my **daily Java coding practice** where I consistently build strong programming fundamentals and improve problem-solving skills.
-
-It is part of my journey to prepare for:
-
-* 📌 Software Engineering Roles
-* 📌 Internships
-* 📌 Technical Interviews
-* 📌 Strong Problem Solving Skills
+This repository showcases my consistent daily coding practice in Java, where I focus on building strong fundamentals, improving problem-solving skills, and preparing for technical interviews.
 
 ---
 
-# 🎯 Repository Goals
+# 🎯 Goals  
 
-✔ Strengthen **core Java fundamentals**
-✔ Improve **logical thinking & coding patterns**
-✔ Practice **Data Structures & Algorithms**
-✔ Write **clean, readable, and maintainable code**
-✔ Maintain **consistent GitHub activity**
-
----
-
-# 📚 Topics Covered
-
-## 🔹 Java Basics
-
-* Hello World
-* Variables & Data Types
-* Input / Output using Scanner
-* Count Digits
-* Number Operations
-* Single Number
+✔ Master Core Java Fundamentals  
+✔ Strengthen Problem-Solving Skills  
+✔ Practice Data Structures & Algorithms  
+✔ Write clean, readable, optimized code  
+✔ Maintain consistent GitHub contributions  
 
 ---
 
-## 🔹 Control Statements
+# 📚 Topics Covered  
 
-* If – Else
-* Nested If
-* Switch Case
-
----
-
-## 🔹 Loops
-
-* For Loop
-* While Loop
-* Do-While Loop
-* Loop Based Problems
+## 🔹 Java Basics  
+- Variables & Data Types  
+- Input / Output using Scanner  
+- Number Problems (Count Digits, Reverse Number, etc.)  
+- Bit Manipulation Basics (Single Number, XOR concepts)  
 
 ---
 
-## 🔹 Recursion
-
-* Factorial using Recursion
-* Fibonacci using Recursion
-* Basic Recursive Thinking
-
----
-
-## 🔹 String Programs
-
-* Palindrome String
-* Reverse String
-* Vowel Count
-* Anagram Check
-* Character Frequency
-* Remove vowels
-* Longest Unique Substring
+## 🔹 Control Flow  
+- If – Else  
+- Nested Conditions  
+- Switch Case  
 
 ---
 
-## 🔹 Array Programs
-
-* Array Sum
-* Maximum Element
-* Minimum Element
-* Reverse Array
-* Second Largest Element
-* Even & Odd Count
-* Duplicate Elements
-* Frequency of Elements
-* Product Except Self
-* Largest element
+## 🔹 Loops  
+- For Loop  
+- While Loop  
+- Do-While Loop  
+- Pattern-based logic problems  
 
 ---
 
-## 🔹 Object Oriented Programming (OOP)
-
-* Class & Object
-* Constructors
-* Inheritance
-* Method Overloading
-* Method Overriding
-* Abstraction
-* Polymorphism
-* Interfaces
-* Exception Handling
+## 🔹 Recursion  
+- Factorial  
+- Fibonacci  
+- Basic recursion problems  
+- Understanding recursive thinking  
 
 ---
 
-## 🔹 Pattern Programs
-
-* Star Patterns
-* Number Patterns
-* Character Patterns
-
----
-
-## 🔹 Collections Framework
-
-* ArrayList
-* List Operations
-* Iterating Collections
-* Basic Collection Usage
-* First non-repeating
+## 🔹 String Algorithms  
+- Palindrome Check  
+- Anagram Check  
+- Character Frequency  
+- Longest Unique Substring  
+- String Rotation  
+- First Non-Repeating Character  
+- Advanced String Logic Problems  
 
 ---
 
-# 🧠 Coding Approach
+## 🔹 Arrays & Problem Solving  
+- Maximum / Minimum Element  
+- Second Largest Element  
+- Reverse Array  
+- Duplicate Elements  
+- Frequency Count  
+- Product Except Self  
+- Longest Consecutive Sequence  
+- Hashing-based problems  
+
+---
+
+## 🔹 Bit Manipulation 🔥  
+- Single Number (XOR)  
+- Missing Number  
+- Number of 1 Bits  
+- Power of Two  
+- XOR-based problem solving  
+
+---
+
+## 🔹 Collections Framework  
+- ArrayList  
+- HashSet  
+- HashMap  
+- Iteration techniques  
+- Real-world problem usage  
+
+---
+
+## 🔹 Object-Oriented Programming (OOP)  
+- Classes & Objects  
+- Constructors  
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Interfaces  
+- Exception Handling  
+
+---
+
+## 🔹 Pattern Programs  
+- Star Patterns  
+- Number Patterns  
+- Character Patterns  
+
+---
+
+# 🧠 Coding Approach  
 
 Each program in this repository focuses on:
 
-* Clean and readable code
-* Meaningful variable naming
-* Input-driven program execution
-* Awareness of **Time Complexity & Space Complexity**
+- Clean and readable code  
+- Proper naming conventions  
+- Input-driven execution  
+- Optimized solutions  
+- Understanding Time & Space Complexity  
 
 ---
 
-# 📂 Folder Structure
+# 📂 Folder Structure  
 
-```
-java-practice
-│
-├── basics
-├── arrays
-├── strings
-├── recursion
-├── oops
-├── collections
-├── patterns
-│
-└── README.md
-```
-
----
-
-# 📈 Progress Strategy
-
-I update this repository **regularly** with:
-
-* New Java programs
-* Improved logic and optimization
-* Refactored code
-* Better understanding of problem-solving techniques
+java-practice  
+│  
+├── basics  
+├── arrays  
+├── strings  
+├── recursion  
+├── oops  
+├── collections  
+├── bit-manipulation  
+├── patterns  
+│  
+└── README.md  
 
 ---
 
-# 🔄 Daily Practice Plan
+# 📈 Progress Strategy  
 
-✔ Learn **1 Java concept**
-✔ Solve **1 logical coding problem**
-✔ Push **1 meaningful GitHub commit**
+I regularly update this repository with:
+
+- New problems and concepts  
+- Optimized solutions  
+- Refactored code  
+- Improved coding patterns  
 
 ---
 
-# 💡 Purpose of This Repository
+# 🔄 Daily Practice Routine  
+
+✔ Solve 1 Java problem  
+✔ Learn 1 concept  
+✔ Push 1 meaningful commit  
+
+---
+
+# 💡 Purpose  
 
 This repository reflects:
 
-* Consistent learning
-* Strong programming fundamentals
-* Interview preparation
-* Continuous improvement in coding
+- Consistency  
+- Strong fundamentals  
+- Interview preparation  
+- Continuous improvement mindset  
 
 ---
 
-# 🚀 Upcoming Improvements
+# 🚀 Upcoming Additions  
 
-Planned additions to this repository:
-
-* Sorting Algorithms
-* Searching Algorithms
-* More Data Structures
-* Advanced Java Concepts
-* More Collection Framework Examples
+- Sorting Algorithms  
+- Searching Techniques  
+- Advanced Data Structures  
+- Systematic DSA patterns  
+- Advanced Java concepts  
 
 ---
 
-⭐ **Consistency + Practice + Clean Code + GitHub = Strong Developer Profile**
+# 🌟 Final Note  
+
+Consistency + Problem Solving + Clean Code + GitHub = Strong Developer Profile 🚀
