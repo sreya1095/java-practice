@@ -56,7 +56,8 @@ This repository showcases my consistent daily coding practice in Java, where I f
 - Longest Unique Substring  
 - String Rotation  
 - First Non-Repeating Character  
-- Advanced String Logic Problems  
+- Advanced String Logic Problems 
+- Pangram Check 
 
 ---
 
