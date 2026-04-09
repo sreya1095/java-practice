@@ -105,7 +105,8 @@ This repository showcases my consistent daily coding practice in Java, where I f
 ## 🔹 Pattern Programs  
 - Star Patterns  
 - Number Patterns  
-- Character Patterns  
+- Character Patterns 
+- Checkerboard Pattern 
 
 ---
 
