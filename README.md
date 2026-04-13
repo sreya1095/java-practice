@@ -22,7 +22,7 @@ This repository showcases my consistent daily coding practice in Java, where I f
 - Variables & Data Types  
 - Input / Output using Scanner  
 - Number Problems (Count Digits, Reverse Number, etc.)  
-- Bit Manipulation Basics (Single Number, XOR concepts)  
+- Bit Manipulation Basics (Single Number, XOR concepts,Binary Conversion)  
 
 ---
 
