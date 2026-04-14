@@ -23,6 +23,7 @@ This repository showcases my consistent daily coding practice in Java, where I f
 - Input / Output using Scanner  
 - Number Problems (Count Digits, Reverse Number, etc.)  
 - Bit Manipulation Basics (Single Number, XOR concepts,Binary Conversion)  
+- Matrix Multiplication 
 
 ---
 
