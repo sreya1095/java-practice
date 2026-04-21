@@ -70,7 +70,8 @@ This repository showcases my consistent daily coding practice in Java, where I f
 - Frequency Count  
 - Product Except Self  
 - Longest Consecutive Sequence  
-- Hashing-based problems  
+- Hashing-based problems 
+- Pairwise XOR product 
 
 ---
 
