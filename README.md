@@ -2,7 +2,7 @@
 
 Welcome to my **Java Practice Repository** 👩‍💻  
 
-This repository showcases my consistent daily coding practice in Java, where I focus on building strong fundamentals, improving problem-solving skills, and preparing for technical interviews.
+This repository showcases my **consistent daily Java coding practice**, where I focus on building strong fundamentals, improving problem-solving skills, and preparing for technical interviews.
 
 ---
 
@@ -22,8 +22,9 @@ This repository showcases my consistent daily coding practice in Java, where I f
 - Variables & Data Types  
 - Input / Output using Scanner  
 - Number Problems (Count Digits, Reverse Number, etc.)  
-- Bit Manipulation Basics (Single Number, XOR concepts,Binary Conversion)  
-- Matrix Multiplication 
+- Binary Conversion (Decimal ↔ Binary)  
+- Bit Manipulation Basics (Single Number, XOR concepts)  
+- Matrix Multiplication  
 
 ---
 
@@ -57,8 +58,8 @@ This repository showcases my consistent daily coding practice in Java, where I f
 - Longest Unique Substring  
 - String Rotation  
 - First Non-Repeating Character  
-- Advanced String Logic Problems 
-- Pangram Check 
+- Pangram Check  
+- Advanced String Logic Problems  
 
 ---
 
@@ -70,8 +71,9 @@ This repository showcases my consistent daily coding practice in Java, where I f
 - Frequency Count  
 - Product Except Self  
 - Longest Consecutive Sequence  
-- Hashing-based problems 
-- Pairwise XOR product 
+- Hashing-based problems  
+- Pairwise XOR Product  
+- Matrix Problems  
 
 ---
 
@@ -81,6 +83,7 @@ This repository showcases my consistent daily coding practice in Java, where I f
 - Number of 1 Bits  
 - Power of Two  
 - XOR-based problem solving  
+- Bitwise operations and tricks  
 
 ---
 
@@ -107,37 +110,36 @@ This repository showcases my consistent daily coding practice in Java, where I f
 ## 🔹 Pattern Programs  
 - Star Patterns  
 - Number Patterns  
-- Character Patterns 
-- Checkerboard Pattern 
+- Character Patterns  
+- Checkerboard Pattern  
 
 ---
 
-# 🧠 Coding Approach  
+## 🧠 Coding Approach  
 
 Each program in this repository focuses on:
 
 - Clean and readable code  
-- Proper naming conventions  
+- Meaningful variable naming  
 - Input-driven execution  
 - Optimized solutions  
-- Understanding Time & Space Complexity  
+- Understanding **Time Complexity & Space Complexity**  
 
 ---
 
 # 📂 Folder Structure  
-
-java-practice  
-│  
-├── basics  
-├── arrays  
-├── strings  
-├── recursion  
-├── oops  
-├── collections  
-├── bit-manipulation  
-├── patterns  
-│  
-└── README.md  
+java-practice
+│
+├── basics
+├── arrays
+├── strings
+├── recursion
+├── oops
+├── collections
+├── bit-manipulation
+├── patterns
+│
+└── README.md
 
 ---
 
@@ -154,9 +156,9 @@ I regularly update this repository with:
 
 # 🔄 Daily Practice Routine  
 
-✔ Solve 1 Java problem  
-✔ Learn 1 concept  
-✔ Push 1 meaningful commit  
+✔ Solve **1 Java problem**  
+✔ Learn **1 concept**  
+✔ Push **1 meaningful commit**  
 
 ---
 
@@ -165,7 +167,7 @@ I regularly update this repository with:
 This repository reflects:
 
 - Consistency  
-- Strong fundamentals  
+- Strong programming fundamentals  
 - Interview preparation  
 - Continuous improvement mindset  
 
@@ -183,4 +185,4 @@ This repository reflects:
 
 # 🌟 Final Note  
 
-Consistency + Problem Solving + Clean Code + GitHub = Strong Developer Profile 🚀
+**Consistency + Problem Solving + Clean Code + GitHub = Strong Developer Profile 🚀**
