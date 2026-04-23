@@ -74,6 +74,7 @@ This repository showcases my **consistent daily Java coding practice**, where I 
 - Hashing-based problems  
 - Pairwise XOR Product  
 - Matrix Problems  
+- LongestEqualZeroOneSubarray
 
 ---
 
