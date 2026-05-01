@@ -59,7 +59,8 @@ This repository showcases my **consistent daily Java coding practice**, where I 
 - String Rotation  
 - First Non-Repeating Character  
 - Pangram Check  
-- Advanced String Logic Problems  
+- Advanced String Logic Problems
+- Longest Consecutive  
 
 ---
 
