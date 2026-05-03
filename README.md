@@ -151,7 +151,6 @@ I regularly update this repository with:
 
 - New problems and concepts  
 - Optimized solutions  
-- Refactored code  
 - Improved coding patterns  
 
 ---
